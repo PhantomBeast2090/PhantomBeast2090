@@ -70,11 +70,11 @@ Because apparently ordering food at a college canteen needed an engineering prob
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhantomBeast2090&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomBeast2090&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PhantomBeast2090&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomBeast2090&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
