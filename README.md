@@ -105,18 +105,6 @@ A digital ordering platform exploring demand intelligence, dynamic/probabilistic
 <tr>
 <td width="100%">
 
-### 🚗 Interactive Aston Martin Showcase
-**A frontend experiment in restraint and motion**
-
-A concept site for a luxury car, built to see how far cursor-driven animation and parallax scrolling could go before it stopped feeling like a website and started feeling like a product demo.
-
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/> <img src="https://img.shields.io/badge/CSS-parallax%20%2F%20cursor%20fx-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
 ### 📱 Mobile Development
 **iOS and Android, end to end**
 
