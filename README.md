@@ -1,333 +1,236 @@
-# `> whoami`
+<a name="top"></a>
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   ██████╗  ██████╗ ██████╗ ██╗  ██╗ ███████╗ █████╗ ███╗   ██╗│
-│   ██╔══██╗██╔═══██╗██╔══██╗██║ ██╔╝ ██╔════╝██╔══██╗████╗  ██║│
-│   ██████╔╝██║   ██║██████╔╝█████╔╝  █████╗  ███████║██╔██╗ ██║│
-│   ██╔══██╗██║   ██║██╔══██╗██╔═██╗  ██╔══╝  ██╔══██║██║╚██╗██║│
-│   ██████╔╝╚██████╔╝██║  ██║██║  ██╗ ███████╗██║  ██║██║ ╚████║│
-│   ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝│
-│                                                              │
-│                 R A K S H A N   A D I T H Y A A              │
-│                                                              │
-│          AI • SOFTWARE • SYSTEMS • EXPERIMENTS               │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=RAKSHAN%20ADITHYAA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Agentic%20Systems%20Builder%20%E2%80%A2%20Full-Stack%20Tinkerer&descAlignY=54&descSize=17" alt="Rakshan Adithyaa banner" width="100%"/>
 
-<a href="https://github.com/PhantomBeast2090">
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00ff88?style=for-the-badge"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=Can+we+actually+build+it%3F;Designing+agentic+systems+that+can+fail...+and+self-repair;Exploring+AI+%C3%97+quantitative+finance;iOS+%2F+Android+%2F+Web+%E2%80%94+shipping+things;Currently+debugging+reality..." alt="Typing SVG"/>
 </a>
 
-<a href="https://github.com/PhantomBeast2090?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-CLASSIFIED-ff0055?style=for-the-badge"/>
-</a>
+<br/>
 
-<a href="#-secret-terminal">
-<img src="https://img.shields.io/badge/ACCESS-RESTRICTED-7c3aed?style=for-the-badge"/>
-</a>
+<a href="#about"><img src="https://img.shields.io/badge/01-ABOUT-0f0c29?style=for-the-badge" alt="About"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/02-PROJECTS-302b63?style=for-the-badge" alt="Projects"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/03-STACK-24243e?style=for-the-badge" alt="Stack"/></a>
+<a href="#stats"><img src="https://img.shields.io/badge/04-STATS-0f0c29?style=for-the-badge" alt="Stats"/></a>
+<a href="#terminal"><img src="https://img.shields.io/badge/05-TERMINAL-ff2e63?style=for-the-badge" alt="Secret Terminal"/></a>
 
-</p>
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=PhantomBeast2090&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/PhantomBeast2090?style=for-the-badge&color=0f0c29&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00F0FF?style=for-the-badge&labelColor=0f0c29" alt="Status"/>
 
-## `SYSTEM ONLINE`
+</div>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ SYSTEM STATUS                                               │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  USER        : PhantomBeast2090                             │
-│  MODE        : BUILD                                        │
-│  LOCATION    : Somewhere between an idea and production    │
-│  PRIMARY CPU : Curiosity                                    │
-│  GPU         : Caffeine                                     │
-│  OS          : macOS                                       │
-│                                                             │
-│  AI SYSTEM   : ████████████████████░  ONLINE               │
-│  CODE        : ███████████████████░░  COMPILING            │
-│  SLEEP       : ██░░░░░░░░░░░░░░░░░░  CRITICAL             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<br/>
 
-### 👋 Hey, I'm Rakshan.
+<a name="about"></a>
 
-I'm interested in building systems that sit somewhere between **software engineering, artificial intelligence, experimentation, and controlled chaos.**
+## 👋 `whoami`
 
-I enjoy taking an idea that sounds slightly unreasonable and asking:
+Hey, I'm **Rakshan** — a Computer Science student focused on **AI/ML**, currently splitting my brain between agentic systems, quantitative finance experiments, and whatever idea sounds slightly unreasonable that week.
+
+I like taking a thought that sounds like a bad idea and asking:
 
 > **"Okay, but can we actually build it?"**
 
----
+<div align="center">
 
-# 🧠 `CURRENTLY.EXE`
+| | |
+|---|---|
+| 🎓 | CS student, AI/ML track — currently deep in agentic systems electives |
+| 🧠 | Building AI agents that can be evaluated, diagnosed, and **repaired** when they fail |
+| 💹 | Exploring the intersection of AI and quantitative trading systems |
+| 📱 | Shipping native apps across iOS (Swift/SwiftUI) and Android (Kotlin/Java) |
+| ☕ | Runs on curiosity, mildly unsustainable amounts of caffeine |
+
+</div>
+
+<br/>
+
+## 🧠 `currently.exe`
 
 ```text
 [████████████████████████████████████] 100%
 
-→ Designing
-→ Experimenting
-→ Breaking
-→ Testing
-→ Repairing
-→ Optimizing
-→ Repeat
+→ Designing   → Experimenting   → Breaking
+→ Testing     → Repairing       → Optimizing   → Repeat
 ```
 
-### 🤖 Adaptive Agentic Systems
+**Right now:** exploring adaptive agentic systems — where the interesting question isn't *"can an agent do the task?"* but:
 
-Currently exploring systems where AI agents don't simply execute tasks — they can be **evaluated, challenged, diagnosed, and potentially repaired.**
+> **"What happens when the agent fails — and can it fix itself?"**
 
-The interesting question isn't:
+<br/>
 
-> "Can an AI agent do it?"
+<a name="projects"></a>
 
-It's:
+## 🧪 `project lab`
 
-> **"What happens when the agent fails?"**
-
----
-
-# 🧪 `PROJECT LAB`
-
-<details>
-<summary><kbd>🤖</kbd> Open AI / Agentic Systems</summary>
-
-<br>
-
-### Adaptive Agentic Evaluation & Repair
-
-An experimental framework for evaluating autonomous AI agents and investigating automated failure detection and repair.
-
-**Focus areas**
-
-```text
-Agent Evaluation
-       ↓
-Failure Detection
-       ↓
-Root Cause Analysis
-       ↓
-Repair Strategy
-       ↓
-Re-Evaluation
-       ↓
-      LOOP
-```
-
-[→ Explore the repository](https://github.com/PhantomBeast2090/Adaptive_Agentic_Evaluation_and_Repair_of_Autonomous_Trading_Agents)
-
-</details>
-
-<details>
-<summary><kbd>🍔</kbd> Open Campus Intelligence</summary>
-
-<br>
-
-### Campus Canteen Platform
-
-A digital campus food ecosystem exploring:
-
-* ⚡ Ordering infrastructure
-* 📊 Demand intelligence
-* 💰 Dynamic / probabilistic pricing
-* 🤖 AI experimentation
-* 📈 Revenue optimization
-* 🧠 User behavior
-
-The goal:
-
-> Make campus food ordering less chaotic while making the underlying system considerably smarter.
-
-</details>
-
-<details>
-<summary><kbd>📱</kbd> Open Mobile Development</summary>
-
-<br>
-
-Building and experimenting with mobile applications across:
-
-```text
-iOS
-│
-├── Swift
-├── SwiftUI
-└── Xcode
-
-Android
-│
-├── Java / Kotlin
-├── API integration
-└── Production workflows
-```
-
-</details>
-
----
-
-# ⚙️ `TECH STACK`
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,swift,cpp,js,ts,react,nodejs,docker,git,github,linux,androidstudio,xcode&perline=7"/>
-
-</p>
-
----
-
-# 🧬 `ENGINEERING DNA`
-
-<table align="center">
+<table>
 <tr>
-<td align="center"><b>🤖 AI</b><br/>Agentic Systems</td>
-<td align="center"><b>⚙️ Systems</b><br/>Architecture</td>
-<td align="center"><b>📱 Mobile</b><br/>iOS / Android</td>
+<td width="100%">
+
+### 🤖 Adaptive Agentic Evaluation & Repair
+**Autonomous trading agents, evaluated and self-corrected**
+
+An experimental framework for evaluating autonomous AI agents and investigating automated failure detection and repair — applied to trading agents, where a wrong move is expensive and "just retry" isn't good enough.
+
+```
+Agent Evaluation → Failure Detection → Root Cause Analysis → Repair Strategy → Re-Evaluation → loop
+```
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/AI%2FML-agentic-00F0FF?style=flat-square" alt="Agentic"/> <img src="https://img.shields.io/badge/Domain-Quant%20Trading-ff2e63?style=flat-square" alt="Quant"/>
+
+**[→ Explore the repository](https://github.com/PhantomBeast2090/Adaptive_Agentic_Evaluation_and_Repair_of_Autonomous_Trading_Agents)**
+
+</td>
 </tr>
 <tr>
-<td align="center"><b>🧪 Research</b><br/>Experiments</td>
-<td align="center"><b>📊 Data</b><br/>Analysis</td>
-<td align="center"><b>🚀 Product</b><br/>Rapid Building</td>
+<td width="100%">
+
+### 🍔 Campus Canteen Platform
+**A campus food ecosystem, minus the chaos**
+
+A digital ordering platform exploring demand intelligence, dynamic/probabilistic pricing, and revenue optimization — the goal is to make campus food ordering less chaotic while making the system underneath considerably smarter.
+
+`Ordering Infra` · `Demand Intelligence` · `Dynamic Pricing` · `AI Experimentation` · `Revenue Optimization`
+
+<img src="https://img.shields.io/badge/status-in%20development-yellow?style=flat-square" alt="In development"/>
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🚗 Interactive Aston Martin Showcase
+**A frontend experiment in restraint and motion**
+
+A concept site for a luxury car, built to see how far cursor-driven animation and parallax scrolling could go before it stopped feeling like a website and started feeling like a product demo.
+
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/> <img src="https://img.shields.io/badge/CSS-parallax%20%2F%20cursor%20fx-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 📱 Mobile Development
+**iOS and Android, end to end**
+
+```
+iOS               Android
+│                 │
+├── Swift         ├── Java / Kotlin
+├── SwiftUI       ├── API integration
+└── Xcode         └── Production workflows
+```
+
+</td>
 </tr>
 </table>
 
----
+<br/>
 
-# 📊 `GITHUB TELEMETRY`
+<a name="stack"></a>
 
-<p align="center">
+## ⚙️ `tech stack`
 
-<img src="https://github-readme-stats.vercel.app/api?username=PhantomBeast2090&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,swift,kotlin,cpp,js,ts,react,nodejs,docker,git,github,linux,androidstudio,xcode,figma&perline=8" alt="Tech stack icons"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomBeast2090&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<br/>
 
-</p>
+## 🧬 `engineering dna`
 
-<p align="center">
+| 🤖 AI | ⚙️ Systems | 📱 Mobile |
+|:---:|:---:|:---:|
+| Agentic Systems | Architecture | iOS / Android |
+| **🧪 Research** | **📊 Data** | **🚀 Product** |
+| Experiments | Analysis | Rapid Building |
 
-<img src="https://streak-stats.demolab.com?user=PhantomBeast2090&theme=tokyonight&hide_border=true" width="70%"/>
+<br/>
 
-</p>
+<a name="stats"></a>
 
----
+## 📊 `github telemetry`
 
-# 🐍 `CONTRIBUTION MATRIX`
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PhantomBeast2090&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomBeast2090&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<img src="https://raw.githubusercontent.com/PhantomBeast2090/PhantomBeast2090/output/github-contribution-grid-snake.svg"/>
+<img src="https://streak-stats.demolab.com/?user=PhantomBeast2090&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=PhantomBeast2090&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+## 🐍 `contribution matrix`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/PhantomBeast2090/PhantomBeast2090/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
+</div>
 
 > If the snake isn't moving, it's probably debugging.
+>
+> *(Needs the snake GitHub Action pushing to an `output` branch — keep that workflow enabled or this section will show broken art instead of a snake.)*
 
----
+<br/>
 
-# 🕹️ `CHOOSE YOUR PATH`
+<a name="terminal"></a>
 
-<p align="center">
-
-<a href="#-about-the-human">
-<img src="https://img.shields.io/badge/01-%20ABOUT%20ME-7c3aed?style=for-the-badge"/>
-</a>
-
-<a href="#-project-lab">
-<img src="https://img.shields.io/badge/02-%20PROJECTS-00aaff?style=for-the-badge"/>
-</a>
-
-<a href="#-engineering-dna">
-<img src="https://img.shields.io/badge/03-%20STACK-00ff88?style=for-the-badge"/>
-</a>
-
-<a href="#-secret-terminal">
-<img src="https://img.shields.io/badge/04-%20???-ff0055?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# 🔐 `SECRET TERMINAL`
+## 🔐 `secret terminal`
 
 <details>
-<summary><kbd>▶</kbd> Initialize hidden subsystem</summary>
+<summary><b>▶ Click to initialize hidden subsystem</b></summary>
 
-<br>
+<br/>
 
 ```text
 Initializing...
-
-[████░░░░░░░░░░░░░░░░] 20%
-[████████░░░░░░░░░░░░] 40%
-[████████████░░░░░░░░] 60%
-[████████████████░░░░] 80%
 [████████████████████] 100%
-
 ACCESS GRANTED.
 ```
 
 ### 🕵️ You found it.
 
-There isn't supposed to be anything here.
+There isn't supposed to be anything here. Which means you looked — and that's exactly the kind of person who ends up reading source code at 3AM.
 
-Which means...
-
-**you looked.**
-
-And that's exactly the kind of person who ends up reading source code at 3 AM.
-
-```text
-Achievement unlocked:
-
-┌──────────────────────────────┐
-│ 🏆 CURIOUS HUMAN             │
-│                              │
-│ You opened the secret door.  │
-└──────────────────────────────┘
+```
+🏆 ACHIEVEMENT UNLOCKED: CURIOUS HUMAN
+   You opened the secret door.
 ```
 
-But there's another layer.
+One more layer down:
 
 <details>
 <summary>🔴 Don't click this</summary>
 
-<br>
+<br/>
 
-```text
-ERROR 404
+```
+ERROR 404 — COMMON SENSE NOT FOUND.
 
-COMMON SENSE NOT FOUND.
-
-Launching emergency protocol...
-
-████████████████████████████████
-
-Congratulations.
-
-You have officially spent more time
+Congratulations. You have officially spent more time
 inside this README than most recruiters.
-
-████████████████████████████████
 ```
 
 </details>
 
 </details>
 
----
-
-# 🧩 `DEBUG CONSOLE`
+<br/>
 
 <details>
-<summary>Open developer console</summary>
+<summary>🧩 <b>Open developer console</b></summary>
 
-<br>
+<br/>
 
 ```python
 class Rakshan:
@@ -335,10 +238,10 @@ class Rakshan:
     interests = [
         "Artificial Intelligence",
         "Agentic Systems",
-        "Software Engineering",
+        "Quantitative Finance",
         "Mobile Development",
-        "Algorithms",
-        "Experimentation"
+        "Software Engineering",
+        "Experimentation",
     ]
 
     philosophy = """
@@ -355,73 +258,38 @@ class Rakshan:
 
 </details>
 
----
+<br/>
 
-# 💭 `THOUGHT PROCESS`
+## 💭 `thought process`
 
-```text
-        IDEA
-         │
-         ▼
-     "Can we?"
-         │
-         ▼
-      BUILD IT
-         │
-         ▼
-     IT BREAKS
-         │
-         ▼
-    "Interesting..."
-         │
-         ▼
-    FIND THE BUG
-         │
-         ▼
-      FIX IT
-         │
-         ▼
-      TEST IT
-         │
-         ▼
-      SHIP IT
-         │
-         ▼
-   "Wait... what if?"
-         │
-         └──────────────► IDEA
+```
+   IDEA → "Can we?" → BUILD IT → IT BREAKS → "Interesting..."
+     ▲                                              │
+     │                                              ▼
+  "Wait, what if?" ← SHIP IT ← TEST IT ← FIX IT ← FIND THE BUG
 ```
 
----
+<br/>
 
-# 📡 `TRANSMISSION`
+## 📡 `transmission`
 
-If you've made it this far:
+<div align="center">
 
-**Hi. 👋**
+If you've made it this far — **hi. 👋**
 
 You can find my work, experiments, and questionable engineering decisions here:
 
-<p align="center">
-
 <a href="https://github.com/PhantomBeast2090">
-<img src="https://img.shields.io/badge/GITHUB-PhantomBeast2090-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GITHUB-PhantomBeast2090-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</p>
+<br/><br/>
 
----
+<sub><a href="#top">↑ back to top</a></sub>
 
-<p align="center">
-
-### `> END OF README`
-
-```text
-Connection remains open.
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" alt="footer" width="100%"/>
 
 **⚡ Keep building.**
 
-</p>
-
+</div>
 
